@@ -5,7 +5,7 @@
 using namespace std;
 
 #include "ProduceItem.h"
-
+#include "SalesReport.h"
 
 int main() {
 
@@ -13,18 +13,20 @@ int main() {
 	inFS.open("InputFile.txt");  // Attempt to open file
 	if (!inFS.is_open()) {
 		cout << "Could not open file" << endl;
-		return 1; // 1 indicates error
+		return 1; // Indicates error opening file
 	}
 
-	vector<string> purchases;
-	for (int i = 0; i < 10; i++) {
-		string item;
-		getline(inFS, item);
-		purchases.push_back(item);
-	}
+	SalesReport dailySales;
+	ProduceItem currItem;
 
 	for (int i = 0; i < 10; i++) {
-		cout << purchases[i] << endl;
+		string itemName;
+		getline(inFS, itemName);
+		currItem.SetItemName(itemName);
+		dailySales.AddItem(currItem);
 	}
+
+	dailySales.PrintReport();
+
 	return 0;
 }
