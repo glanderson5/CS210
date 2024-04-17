@@ -3,7 +3,7 @@
 ProduceItem::ProduceItem(string name)
 {
 	this->itemName = name;
-	this->numPurchased = 0;
+	this->numPurchased = 1;
 }
 
 string ProduceItem::GetItemName()
