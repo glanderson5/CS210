@@ -12,7 +12,8 @@ using namespace std;
 class SalesReport
 {
 public:
-	void AddItem(ProduceItem item);
+	void AddItem(ProduceItem& item);
+	void PrintReport();
 private:
 	vector<ProduceItem> totalSales;
 };
