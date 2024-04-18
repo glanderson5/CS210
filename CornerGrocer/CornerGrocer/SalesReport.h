@@ -15,6 +15,8 @@ public:
 	void AddItem(ProduceItem& item);
 	void PrintReport();
 	void PrintHistogram();
+	int SearchItemFrequency(string itemName);
+	int GetReportSize();
 private:
 	vector<ProduceItem> totalSales;
 	int GetLongestName();

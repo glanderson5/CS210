@@ -19,16 +19,20 @@ int main() {
 	SalesReport dailySales;
 	ProduceItem currItem;
 
-	for (int i = 0; i < 10; i++) {
+	while (inFS) {
 		string itemName;
 		getline(inFS, itemName);
-		currItem.SetItemName(itemName);
-		dailySales.AddItem(currItem);
+		if (itemName != "") {
+			currItem.SetItemName(itemName);
+			dailySales.AddItem(currItem);
+		}
 	}
 
 	dailySales.PrintReport();
 	cout << endl;
 	dailySales.PrintHistogram();
-
+	cout << "Zucchini" << dailySales.SearchItemFrequency("Zucchini") << endl;
+	cout << "Cranberries" << dailySales.SearchItemFrequency("Cranberries") << endl;
+	cout << "Peas" << dailySales.SearchItemFrequency("Peas") << endl;
 	return 0;
 }
