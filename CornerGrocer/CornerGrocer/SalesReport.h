@@ -14,8 +14,10 @@ class SalesReport
 public:
 	void AddItem(ProduceItem& item);
 	void PrintReport();
+	void PrintHistogram();
 private:
 	vector<ProduceItem> totalSales;
+	int GetLongestName();
 };
 
 #endif

@@ -27,6 +27,8 @@ int main() {
 	}
 
 	dailySales.PrintReport();
+	cout << endl;
+	dailySales.PrintHistogram();
 
 	return 0;
 }

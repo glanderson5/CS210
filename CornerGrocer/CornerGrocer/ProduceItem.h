@@ -14,6 +14,7 @@ public:
 	void SetItemName(string name);
 	int GetNumPurchased();
 	void SetNumPurchased(int n);
+	string GetHisto();
 
 private:
 	string itemName;

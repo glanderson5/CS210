@@ -1,5 +1,6 @@
 #include "SalesReport.h"
 #include <iostream>
+#include <iomanip>
 
 void SalesReport::AddItem(ProduceItem& item)
 {
@@ -18,4 +19,23 @@ void SalesReport::PrintReport()
 		ProduceItem currItem = this->totalSales.at(i);
 		cout << currItem.GetItemName() << " " << currItem.GetNumPurchased() << endl;
 	}
+}
+
+void SalesReport::PrintHistogram()
+{
+	for (int i = 0; i < this->totalSales.size(); i++) {
+		ProduceItem currItem = this->totalSales.at(i);
+		cout << right << setw(this->GetLongestName()) << currItem.GetItemName() << " " << currItem.GetHisto() << endl;
+	}
+}
+
+int SalesReport::GetLongestName()
+{
+	int longest = 0;
+	for (int i = 0; i < this->totalSales.size(); i++) {
+		if (this->totalSales.at(i).GetItemName().size() > longest) {
+			longest = this->totalSales.at(i).GetItemName().size();
+		}
+	}
+	return longest;
 }

@@ -25,3 +25,12 @@ void ProduceItem::SetNumPurchased(int n)
 {
 	this->numPurchased = n;
 }
+
+string ProduceItem::GetHisto()
+{
+	string symbols = "";
+	for (int i = 0; i < this->GetNumPurchased(); i++) {
+		symbols += "*";
+	}
+	return symbols;
+}
