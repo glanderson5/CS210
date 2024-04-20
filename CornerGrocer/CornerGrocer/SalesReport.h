@@ -17,6 +17,7 @@ public:
 	void PrintHistogram();
 	int SearchItemFrequency(string itemName);
 	int GetReportSize();
+	void CreateBackup();
 private:
 	vector<ProduceItem> totalSales;
 	int GetLongestName();

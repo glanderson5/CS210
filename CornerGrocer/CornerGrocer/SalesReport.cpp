@@ -1,5 +1,6 @@
 #include "SalesReport.h"
 #include <iostream>
+#include <fstream>
 #include <iomanip>
 
 void SalesReport::AddItem(ProduceItem& item)
@@ -42,6 +43,21 @@ int SalesReport::SearchItemFrequency(string itemName)
 int SalesReport::GetReportSize()
 {
 	return this->totalSales.size();
+}
+
+void SalesReport::CreateBackup()
+{
+	ofstream backupFile("frequency.dat");
+	if (!backupFile.is_open()) {
+		cout << "Unable to open backup file" << endl;
+		return;
+	}
+
+	for (int i = 0; i < this->totalSales.size(); i++) {
+		backupFile << this->totalSales.at(i).GetItemName() << " " << this->totalSales.at(i).GetNumPurchased() << endl;
+	}
+
+	backupFile.close();
 }
 
 int SalesReport::GetLongestName()

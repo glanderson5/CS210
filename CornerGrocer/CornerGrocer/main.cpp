@@ -69,6 +69,8 @@ int main() {
 		}
 	}
 
+	dailySales.CreateBackup();
+
 	int userChoice = -1;
 	while (userChoice != 4) {
 		userChoice = DisplayMenu();
