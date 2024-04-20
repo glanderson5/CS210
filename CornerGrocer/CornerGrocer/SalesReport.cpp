@@ -40,11 +40,6 @@ int SalesReport::SearchItemFrequency(string itemName)
 	return 0; // Return 0 if no match found
 }
 
-int SalesReport::GetReportSize()
-{
-	return this->totalSales.size();
-}
-
 void SalesReport::CreateBackup()
 {
 	ofstream backupFile("frequency.dat");

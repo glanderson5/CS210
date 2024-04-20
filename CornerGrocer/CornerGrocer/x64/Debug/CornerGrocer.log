@@ -5,8 +5,7 @@ C:\Users\gland\source\repos\CS210\CornerGrocer\CornerGrocer\SalesReport.h(2,1): 
 C:\Users\gland\source\repos\CS210\CornerGrocer\CornerGrocer\ProduceItem.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'SalesReport.cpp')
   
-C:\Users\gland\source\repos\CS210\CornerGrocer\CornerGrocer\SalesReport.cpp(45,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\gland\source\repos\CS210\CornerGrocer\CornerGrocer\SalesReport.cpp(68,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\gland\source\repos\CS210\CornerGrocer\CornerGrocer\SalesReport.cpp(63,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
   main.cpp
 C:\Users\gland\source\repos\CS210\CornerGrocer\CornerGrocer\ProduceItem.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'main.cpp')
