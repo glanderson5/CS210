@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\SalesReport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|solutionrelative:CornerGrocer\\SalesReport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|solutionrelative:CornerGrocer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\SalesReport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|solutionrelative:CornerGrocer\\SalesReport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\SalesReport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|solutionrelative:CornerGrocer\\SalesReport.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\ProduceItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|solutionrelative:CornerGrocer\\ProduceItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|solutionrelative:CornerGrocer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\ProduceItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|solutionrelative:CornerGrocer\\ProduceItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\InputFile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|solutionrelative:CornerGrocer\\InputFile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\SalesReport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DF3E27E-5DDC-4A27-8025-69F9B4B79D6D}|CornerGrocer\\CornerGrocer.vcxproj|solutionrelative:CornerGrocer\\SalesReport.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,63 +52,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SalesReport.cpp",
               "DocumentMoniker": "C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\SalesReport.cpp",
               "RelativeDocumentMoniker": "CornerGrocer\\SalesReport.cpp",
-              "ToolTip": "C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\SalesReport.cpp*",
-              "RelativeToolTip": "CornerGrocer\\SalesReport.cpp*",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAAAAAAA",
+              "ToolTip": "C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\SalesReport.cpp",
+              "RelativeToolTip": "CornerGrocer\\SalesReport.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-19T19:27:53.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InputFile.txt",
-              "DocumentMoniker": "C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\InputFile.txt",
-              "RelativeDocumentMoniker": "CornerGrocer\\InputFile.txt",
-              "ToolTip": "C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\InputFile.txt",
-              "RelativeToolTip": "CornerGrocer\\InputFile.txt",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-04-18T01:30:25.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ProduceItem.cpp",
               "DocumentMoniker": "C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\ProduceItem.cpp",
               "RelativeDocumentMoniker": "CornerGrocer\\ProduceItem.cpp",
               "ToolTip": "C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\ProduceItem.cpp",
               "RelativeToolTip": "CornerGrocer\\ProduceItem.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-18T00:01:31.573Z"
+              "WhenOpened": "2024-04-18T00:01:31.573Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SalesReport.h",
               "DocumentMoniker": "C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\SalesReport.h",
               "RelativeDocumentMoniker": "CornerGrocer\\SalesReport.h",
-              "ToolTip": "C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\SalesReport.h*",
-              "RelativeToolTip": "CornerGrocer\\SalesReport.h*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "ToolTip": "C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\SalesReport.h",
+              "RelativeToolTip": "CornerGrocer\\SalesReport.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-04-17T23:36:40.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\main.cpp",
               "RelativeDocumentMoniker": "CornerGrocer\\main.cpp",
               "ToolTip": "C:\\Users\\gland\\source\\repos\\CS210\\CornerGrocer\\CornerGrocer\\main.cpp",
               "RelativeToolTip": "CornerGrocer\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAowHoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-04-17T21:41:57.733Z",
               "EditorCaption": ""
